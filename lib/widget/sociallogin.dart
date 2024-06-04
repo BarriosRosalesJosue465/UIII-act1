@@ -40,7 +40,7 @@ class SocialLogin extends StatelessWidget {
                         )
                       ]),
                   child: Image.network(
-                      'https://raw.githubusercontent.com/Aric-Mirray-Capistran-Tenorio/IMG_FlutterFlow_IOS_6J/main/Act12NavBarFlutterFlow/google.png',
+                      'https://raw.githubusercontent.com/BarriosRosalesJosue465/img_fluttterFlow_IOS_6J/main/act12NavBar_flutterFlow/X.jpg',
                       height: 30),
                 ),
               ),
@@ -63,7 +63,7 @@ class SocialLogin extends StatelessWidget {
                         )
                       ]),
                   child: Image.network(
-                      'https://raw.githubusercontent.com/Aric-Mirray-Capistran-Tenorio/IMG_FlutterFlow_IOS_6J/main/Act12NavBarFlutterFlow/twiter.png',
+                      'https://raw.githubusercontent.com/BarriosRosalesJosue465/img_fluttterFlow_IOS_6J/main/act12NavBar_flutterFlow/face.png',
                       height: 30),
                 ),
               ),
@@ -86,7 +86,7 @@ class SocialLogin extends StatelessWidget {
                         )
                       ]),
                   child: Image.network(
-                      'https://raw.githubusercontent.com/Aric-Mirray-Capistran-Tenorio/IMG_FlutterFlow_IOS_6J/main/Act12NavBarFlutterFlow/face.png',
+                      'https://raw.githubusercontent.com/BarriosRosalesJosue465/img_fluttterFlow_IOS_6J/main/act12NavBar_flutterFlow/google.png',
                       height: 30),
                 ),
               )

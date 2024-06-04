@@ -12,11 +12,11 @@ class LoginView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: const Color(0xFFD50000),
+      backgroundColor: const Color(0xfff99d11),
       body: SingleChildScrollView(
           child: SafeArea(
         child: Container(
-          color: const Color(0xFFD50000),
+          color: const Color(0xfff99d11),
           width: double.infinity,
           padding: const EdgeInsets.all(15.0),
           child: Column(
@@ -28,7 +28,7 @@ class LoginView extends StatelessWidget {
               Container(
                 alignment: Alignment.center,
                 child: Text(
-                  'Refaccionaria',
+                  'Sabritas',
                   style: TextStyle(
                     color: GlobalColors.mainColor,
                     fontSize: 45,

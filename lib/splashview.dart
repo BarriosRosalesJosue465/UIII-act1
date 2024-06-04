@@ -26,7 +26,7 @@ class _SplashViewState extends State<SplashView> {
       backgroundColor: GlobalColors.mainColor,
       body: const Center(
         child: Text(
-          'Refaccionaria',
+          'Sabritas',
           style: TextStyle(
             color: Colors.white,
             fontSize: 35,
